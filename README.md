@@ -8,7 +8,7 @@ convert a wasm module to an a ts file to import
 
 ## Usage
 
-see the example (here)[https://github.com/AliBasicCoder/wasm-imports/tree/master/example]
+see the example [here](https://github.com/AliBasicCoder/wasm-imports/tree/master/example)
 
 ```
 deno run https://deno.land/x/wasm_imports/index.ts <wasm_file> <ts_file>
